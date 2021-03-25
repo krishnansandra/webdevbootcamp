@@ -1,0 +1,20 @@
+
+.head{
+    color: indigo;
+    text-align: center;
+    font-size: 50px;
+}
+.para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:navy;
+    text-align: center;
+    background-color: deepskyblue;
+    
+}
+.head1{
+    text-align: center;
+}
+.gallery img{
+width: 250px;
+height: auto;
+}
