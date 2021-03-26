@@ -89,6 +89,7 @@
    padding-right:15px;
    margin:50px 70px;
 }
-.services img{
+.services td{
+    color:blue;
     padding:50px;
 }
