@@ -8,13 +8,26 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:navy;
     text-align: center;
-    background-color: deepskyblue;
+    background-color:burlywood;
     
 }
 .head1{
     text-align: center;
+    background-color: ivory;
 }
+
 .gallery img{
-width: 250px;
-height: auto;
+    width:250px;
+    height:auto;
+
+}
+.gallery{
+    width:60px;
+    background-color: bisque;
+}
+.gallery td{
+    padding:50px
+}
+.gallery1{
+    background-color: aqua;
 }
